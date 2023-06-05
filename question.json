@@ -28,5 +28,19 @@
     "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
     "answer": 0,
     "explanation": "La Mona Lisa fue pintada por Leonardo da Vinci, uno de los artistas más destacados del Renacimiento."
-  }
+  },
+  {
+  "category": "Cine",
+  "question": "¿Quién dirigió la película 'El Padrino'?",
+  "options": ["Francis Ford Coppola", "Martin Scorsese", "Steven Spielberg"],
+  "answer": 0,
+  "explanation": "Francis Ford Coppola dirigió la película 'El Padrino'."
+},
+  {
+  "category": "Cultura",
+  "question": "¿Quién escribió la obra 'Romeo y Julieta'?",
+  "options": ["Jane Austen", "Miguel de Cervantes", "William Shakespeare"],
+  "answer": 2,
+  "explanation": "William Shakespeare escribió la obra 'Romeo y Julieta'."
+}
 ]
