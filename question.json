@@ -1,31 +1,7 @@
-[
-  {
-    "category": "Deportes",
-    "question": "¿De donde es Messi?",
-    "options": ["Argentina", "Peru", "Chile"],
-    "answers": 0,
-    "explanation": "Nacio en Argentina"
-  },
-  {
-    "category": "Ciencia",
-    "question": "¿Cuál es el elemento más abundante en la corteza terrestre?",
-    "options": ["Oxígeno", "Silicio", "Aluminio"],
-    "answers": 0,
-    "explanation": "El oxígeno es el elemento más abundante en la corteza terrestre, constituyendo aproximadamente el 46.6% de su masa."
-  },
-
-  {
-    "category": "Historia",
-    "question": "¿En qué año se produjo la Revolución Francesa?",
-    "options": ["1789", "1815", "1830"],
-    "answers": 0,
-    "explanation": "La Revolución Francesa se produjo en 1789, marcando el inicio de un período de cambios políticos y sociales significativos en Francia y en Europa."
-  },
-  {
-    "category": "Arte",
-    "question": "¿Quién pintó La Mona Lisa?",
-    "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
-    "answers": 0,
-    "explanation": "La Mona Lisa fue pintada por Leonardo da Vinci, uno de los artistas más destacados del Renacimiento."
-  }
-]
+{
+  "category": "Deportes",
+  "question": "¿De donde es Messi?",
+  "options": ["Argentina", "Peru", "Chile"],
+  "answers": 0,
+  "explanation": "Nacio en Argentina"
+}
