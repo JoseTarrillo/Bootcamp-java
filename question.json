@@ -2,6 +2,7 @@
   "category": "Deportes",
   "question": "¿De donde es Messi?",
   "options": ["Argentina", "Peru", "Chile"],
-  "answers": 0,
+  "answer": 0,
   "explanation": "Nacio en Argentina"
 }
+
